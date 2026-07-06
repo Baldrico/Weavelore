@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2020-02-25",
+    "title": "Spell editor",
+    "description": "<p>You can now create and edit spells from within the application! Check it out by enabling the new <b>edition mode</b>, which you can find to the right of the search bar. Learn more about this feature on the Tips page.</p>"
+  },{
+    "date": "2019-08-31",
+    "title": "Introducing Rules",
+    "description": "<p>Can you remember all the effects of the \"paralyzed\" condition? How about what it means for an area to be \"heavily obscured\"? From now on you won't have to worry about that, as WeaveLore brings all the most common spell-related rules of D&D into the app. Check them out on the new Rules page, or try clicking on any underlined word!</p><p>More rules will be added in future versions, suggestions are welcome.</p>"
+  },{
+    "date": "2019-07-27",
+    "title": "Custom content support",
+    "description": "<p>The app now has improved support for custom content!</p><ul><li>You can load content from multiple sources, manage sources individually, and back up your database from the new Content page.</li><li>Detailed documentation is now available for content creators. Check out the <a href='https://github.com/bgior/weavelore/wiki/Content-FAQ' target='_blank'>Content FAQ</a> to get started.</li></ul>"
+  },
+  {
+    "date": "2019-07-24",
+    "title": "Welcome to WeaveLore!",
+    "description": "<p>Would you like to help improve this app?</p><ul><li>Join <a href='https://www.reddit.com/r/WeaveLore' target='_blank'>the new subreddit</a> to:</li><ul><li>Leave feedback</li><li>Participate in discussions about new features</li><li>Help find and fix issues</li><li>Just ask anything</li></ul><li>Share it with everybody!</li></ul><p>Your participation matters!</p>"
+  }
+]
